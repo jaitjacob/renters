@@ -4,4 +4,4 @@ This is a Renters Management website. Tenants register when they move in and out
 # To run the server at http://127.0.0.1:8000/
 Enter the following command within Terminal, 
     'py manage.py runserver' [for Win11].
-    CTRL + C to stop the server.
+    CTRL + C to stop the server..
